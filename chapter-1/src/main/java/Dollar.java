@@ -1,7 +1,7 @@
-public class Money {
+public class Dollar {
     int amount;
 
-    Money(int amount) {
+    Dollar(int amount) {
         this.amount = amount;
     }
 
